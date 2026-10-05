@@ -13,11 +13,11 @@ public class Hollow_Rectangle
             {
                 if ( i == 1 || i == totRows || j == 1 || j == totColu) 
                 {
-                    System.out.print("*");
+                    System.out.print("* ");
                 }
                 else 
                 {
-                    System.out.print(" ");
+                    System.out.print("  ");
                 }
             }
             System.out.println();
